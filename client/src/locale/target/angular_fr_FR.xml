@@ -758,7 +758,7 @@
       </trans-unit>
       <trans-unit id="b6307f83d9f43bff8d5129a7888e89964ddc3f7f">
         <source>Local videos</source>
-        <target>Vidéo locales</target>
+        <target>Vidéos locales</target>
         <context-group name="null">
           <context context-type="linenumber">59</context>
         </context-group>
